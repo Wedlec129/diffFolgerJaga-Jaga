@@ -1,0 +1,2 @@
+Login: "adminFTP"
+Password: "admin123"
